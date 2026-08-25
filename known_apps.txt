@@ -7942,3 +7942,16 @@ infracost
 mimo-code
 codex-monitor
 picocrypt-ng
+deja-vu
+reasonix
+hunk
+microsandbox
+druk
+zcode
+wsl-dashboard
+reasonix-desktop
+win-codexbar
+openwhispr
+cockpit-tools
+openwork
+dbx

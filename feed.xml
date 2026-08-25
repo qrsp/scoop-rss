@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Scoop Official Buckets - New Apps</title>
+    <link>https://github.com/ScoopInstaller</link>
+    <description>RSS feed for newly added software applications in official Scoop buckets.</description>
+    <lastBuildDate>Tue, 25 Aug 2026 12:25:12 +0000</lastBuildDate>
+    <item>
+      <title>[Main] deja-vu v0.18.0</title>
+      <link>https://vshulcz.github.io/deja-vu/</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; deja-vu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.18.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Persistent memory for coding agents&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/deja-vu.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 10:10:01 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-deja-vu-0.18.0</guid>
+    </item>
+    <item>
+      <title>[Main] reasonix v1.31.4</title>
+      <link>https://reasonix.io</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; reasonix&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.31.4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Reasonix CLI, official CLI for Reasonix, a DeepSeek-native AI coding agent built to reduce API costs through aggressive context caching.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/reasonix.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 04:32:12 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-reasonix-1.31.4</guid>
+    </item>
+    <item>
+      <title>[Main] hunk v0.19.1</title>
+      <link>https://hunk.dev</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; hunk&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.19.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Review-first terminal diff viewer for agentic coders.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/hunk.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 04:32:11 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-hunk-0.19.1</guid>
+    </item>
+    <item>
+      <title>[Main] microsandbox v0.6.15</title>
+      <link>https://microsandbox.dev</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; microsandbox&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.6.15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Easy, fast, local microVMs for untrusted workloads.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/microsandbox.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:30:28 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-microsandbox-0.6.15</guid>
+    </item>
+    <item>
+      <title>[Main] druk v1.22.1</title>
+      <link>https://github.com/letstri/druk</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; druk&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.22.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Terminal code editor with a file tree, tabs, search, git integration and syntax highlighting.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/druk.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 12:32:47 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-druk-1.22.1</guid>
+    </item>
+    <item>
+      <title>[Extras] zcode v3.9.1</title>
+      <link>https://zcode.z.ai/en</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; zcode&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 3.9.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A full-featured Agentic Development Environment (ADE) built for Long Horizon Tasks, powered by Z.ai.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/zcode.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 04:32:56 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-zcode-3.9.1</guid>
+    </item>
+    <item>
+      <title>[Extras] wsl-dashboard v0.11.0</title>
+      <link>https://www.wslui.com</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; wsl-dashboard&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.11.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A modern, lightweight GUI manager for Windows Subsystem for Linux (WSL) instances.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/wsl-dashboard.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 04:32:55 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-wsl-dashboard-0.11.0</guid>
+    </item>
+    <item>
+      <title>[Extras] reasonix-desktop v1.31.4</title>
+      <link>https://reasonix.io</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; reasonix-desktop&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.31.4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Reasonix Desktop, official GUI for Reasonix, a DeepSeek-native AI coding agent built to reduce API costs through aggressive context caching.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/reasonix-desktop.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 04:32:55 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-reasonix-desktop-1.31.4</guid>
+    </item>
+    <item>
+      <title>[Extras] win-codexbar v0.55.0</title>
+      <link>https://github.com/nesszer/Win-CodexBar</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; win-codexbar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.55.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Windows system-tray app that shows usage stats for AI coding tools (Claude, Codex, Copilot, and more).&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/win-codexbar.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 00:32:09 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-win-codexbar-0.55.0</guid>
+    </item>
+    <item>
+      <title>[Extras] openwhispr v1.9.0</title>
+      <link>https://openwhispr.com</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; openwhispr&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.9.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Voice-to-text dictation app with local and cloud models&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/openwhispr.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 00:32:08 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-openwhispr-1.9.0</guid>
+    </item>
+    <item>
+      <title>[Extras] cockpit-tools v1.3.29</title>
+      <link>https://github.com/jlcodes99/cockpit-tools</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; cockpit-tools&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.3.29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; CC-BY-NC-SA-4.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A universal AI IDE account management tool.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/cockpit-tools.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:30:08 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-cockpit-tools-1.3.29</guid>
+    </item>
+    <item>
+      <title>[Extras] openwork v0.18.35</title>
+      <link>https://openwork.software/</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; openwork&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.18.35&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; An open-source alternative to Claude Cowork, powered by opencode &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/openwork.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 12:31:59 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-openwork-0.18.35</guid>
+    </item>
+    <item>
+      <title>[Extras] dbx v0.5.93</title>
+      <link>https://dbxio.com</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; dbx&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.5.93&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Lightweight, cross-platform database client&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/dbx.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 12:31:56 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-dbx-0.5.93</guid>
+    </item>
+  </channel>
+</rss>
