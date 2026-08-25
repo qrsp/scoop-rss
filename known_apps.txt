@@ -7955,3 +7955,13 @@ openwhispr
 cockpit-tools
 openwork
 dbx
+tuicr
+langsmith-cli
+ggsql
+officecli
+maki
+tinta
+openlogi
+github-copilot
+godothub
+oxideterm

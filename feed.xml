@@ -4,7 +4,77 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 12:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:54:48 +0000</lastBuildDate>
+    <item>
+      <title>[Main] tuicr v0.24.0</title>
+      <link>https://tuicr.dev</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; tuicr&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.24.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A code review TUI with vim keybindings. Export to GitHub or clipboard.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/tuicr.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 20:30:50 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-tuicr-0.24.0</guid>
+    </item>
+    <item>
+      <title>[Main] langsmith-cli v0.2.51</title>
+      <link>https://github.com/langchain-ai/langsmith-cli</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; langsmith-cli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.2.51&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A coding agent-first CLI for interacting with LangSmith.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/langsmith-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 20:30:47 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-langsmith-cli-0.2.51</guid>
+    </item>
+    <item>
+      <title>[Main] ggsql v0.4.1</title>
+      <link>https://ggsql.org</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; ggsql&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.4.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A SQL extension for declarative data visualization based on the Grammar of Graphics.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ggsql.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 16:55:33 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-ggsql-0.4.1</guid>
+    </item>
+    <item>
+      <title>[Main] officecli v1.0.145</title>
+      <link>https://officecli.ai</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; officecli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.0.145&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; The world's first and the best Office suite designed for AI agents&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/officecli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 16:32:28 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-officecli-1.0.145</guid>
+    </item>
+    <item>
+      <title>[Main] maki v0.4.12</title>
+      <link>https://maki.sh</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; maki&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.4.12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; An efficient AI coding agent extendable by neovim like Lua plugins.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/maki.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 16:32:28 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-maki-0.4.12</guid>
+    </item>
+    <item>
+      <title>[Extras] tinta v3.3.0</title>
+      <link>https://tinta.cc</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; tinta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 3.3.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Fast, lightweight Markdown and Mermaid viewer.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/tinta.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 20:30:22 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-tinta-3.3.0</guid>
+    </item>
+    <item>
+      <title>[Extras] openlogi v0.8.0</title>
+      <link>https://openlogi.org</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; openlogi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.8.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A local-first alternative to Logitech Options+, written in Rust. Remap buttons, drive DPI and SmartShift over HID++. No account, no telemetry.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/openlogi.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 20:30:22 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-openlogi-0.8.0</guid>
+    </item>
+    <item>
+      <title>[Extras] github-copilot v1.1.13</title>
+      <link>https://github.com/github/app</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; github-copilot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.1.13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; GitHub Copilot, an agent-native desktop development environment.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/github-copilot.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 20:30:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-github-copilot-1.1.13</guid>
+    </item>
+    <item>
+      <title>[Extras] godothub v1.3.9</title>
+      <link>https://ryko.is-a.dev/godothub</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; godothub&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.3.9&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; The Ultimate Project Manager for Godot Engine.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/godothub.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 16:33:10 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-godothub-1.3.9</guid>
+    </item>
+    <item>
+      <title>[Extras] oxideterm v2.0.24</title>
+      <link>https://oxideterm.app</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; oxideterm&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 2.0.24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; AI-native workspace for local shells and remote machines.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/oxideterm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 12:32:01 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-oxideterm-2.0.24</guid>
+    </item>
     <item>
       <title>[Main] deja-vu v0.18.0</title>
       <link>https://vshulcz.github.io/deja-vu/</link>
