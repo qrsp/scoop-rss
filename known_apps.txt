@@ -4482,3 +4482,7 @@ leopardwm
 appnetworkcounter
 proxytunnel
 dsc
+fooyin
+grok-bot
+obs-cmd
+ipneighborsview
