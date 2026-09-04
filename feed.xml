@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 23:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:36:09 +0000</lastBuildDate>
+    <item>
+      <title>[Extras] nyaterm v1.2.8</title>
+      <link>https://nyaterm.app</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; nyaterm&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.2.8&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A modern remote terminal workspace&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/nyaterm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 15:20:07 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-nyaterm-1.2.8</guid>
+    </item>
+    <item>
+      <title>[Extras] t3code v0.0.38</title>
+      <link>https://t3.codes</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; t3code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.0.38&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Desktop app for orchestrating AI coding agents like Claude Code, Codex, Cursor CLI and OpenCode&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/t3code.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 15:09:08 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-t3code-0.0.38</guid>
+    </item>
+    <item>
+      <title>[Extras] nekokolpa2 v2.2.4+586</title>
+      <link>https://lpa.nekoko.ee/en</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; nekokolpa2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 2.2.4+586&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A cross-platform eSIM management app for working with local eUICCs, external readers, and remote reader endpoints.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/nekokolpa2.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 10:40:08 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-nekokolpa2-2.2.4+586</guid>
+    </item>
     <item>
       <title>[Main] longbridge v0.28.4</title>
       <link>https://open.longbridge.com/docs/cli</link>
